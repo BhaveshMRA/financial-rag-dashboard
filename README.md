@@ -4,6 +4,8 @@
 Comparative financial analysis dashboard over SEC 10-K filings with
 a cited RAG chatbot built on LangGraph.
 
+**Live Application:** [financial-rag-dashboard.streamlit.app](https://financial-rag-dashboard.streamlit.app/)
+
 **Built for:** CustomerInsights.AI AI Engineer Intern Take-Home Exercise  
 **Companies:** NVIDIA (NVDA), AMD (AMD), Intel (INTC)  
 **Data source:** SEC EDGAR (public filings, no authentication required)
