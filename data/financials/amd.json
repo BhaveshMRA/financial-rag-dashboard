@@ -1,0 +1,3353 @@
+{
+  "company": "AMD",
+  "ticker": "AMD",
+  "cik": "2488",
+  "metrics": {
+    "revenue": {
+      "series": [
+        {
+          "end": "2016-12-31",
+          "val": 4319000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-04-01",
+          "val": 1178000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-07-01",
+          "val": 1151000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-09-30",
+          "val": 1584000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-12-30",
+          "val": 5253000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 5253000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 1647000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1647000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 1756000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1756000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 1653000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1653000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 6475000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 6475000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 1272000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1272000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 1531000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1531000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 1801000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 1801000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 6731000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 6731000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 1786000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 1932000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 2801000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 9763000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 9763000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 16434000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 16434000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 23601000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 23601000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 22680000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 22680000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 25785000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": true,
+          "prior_val": 25785000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 34639000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax"
+    },
+    "gross_profit": {
+      "series": [
+        {
+          "end": "2008-12-27",
+          "val": 2320000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2009-12-26",
+          "val": 2272000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 2272000000
+        },
+        {
+          "end": "2010-03-27",
+          "val": 741000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-06-26",
+          "val": 738000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-09-25",
+          "val": 739000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-12-25",
+          "val": 2961000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 2961000000
+        },
+        {
+          "end": "2011-04-02",
+          "val": 691000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 691000000
+        },
+        {
+          "end": "2011-07-02",
+          "val": 720000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 720000000
+        },
+        {
+          "end": "2011-10-01",
+          "val": 756000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 756000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 2940000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 2940000000
+        },
+        {
+          "end": "2012-03-31",
+          "val": 27000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 27000000
+        },
+        {
+          "end": "2012-06-30",
+          "val": 638000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 638000000
+        },
+        {
+          "end": "2012-09-29",
+          "val": 392000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 392000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": 1235000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 1235000000
+        },
+        {
+          "end": "2013-03-30",
+          "val": 445000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 445000000
+        },
+        {
+          "end": "2013-06-29",
+          "val": 459000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 459000000
+        },
+        {
+          "end": "2013-09-28",
+          "val": 521000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 521000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 1978000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 1978000000
+        },
+        {
+          "end": "2014-03-29",
+          "val": 487000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 487000000
+        },
+        {
+          "end": "2014-06-28",
+          "val": 498000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 498000000
+        },
+        {
+          "end": "2014-09-27",
+          "val": 494000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 494000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": 1839000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 1839000000
+        },
+        {
+          "end": "2015-03-28",
+          "val": 326000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 326000000
+        },
+        {
+          "end": "2015-06-27",
+          "val": 232000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 232000000
+        },
+        {
+          "end": "2015-09-26",
+          "val": 239000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 239000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": 1080000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 1080000000
+        },
+        {
+          "end": "2016-03-26",
+          "val": 269000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 269000000
+        },
+        {
+          "end": "2016-06-25",
+          "val": 319000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 319000000
+        },
+        {
+          "end": "2016-09-24",
+          "val": 59000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 59000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 1003000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 998000000
+        },
+        {
+          "end": "2017-04-01",
+          "val": 378000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 331000000
+        },
+        {
+          "end": "2017-07-01",
+          "val": 386000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 404000000
+        },
+        {
+          "end": "2017-09-30",
+          "val": 571000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 573000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 1787000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 1823000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 597000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 597000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 652000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 652000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 661000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 661000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 2447000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 2447000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 521000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 521000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 621000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 621000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 777000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 777000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 2868000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 2868000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 818000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 848000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 1230000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 4347000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 4347000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 7929000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 7929000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 10603000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 10603000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 10460000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 10460000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 12725000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "GrossProfit",
+          "restated": true,
+          "prior_val": 12725000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 17152000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "GrossProfit",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "GrossProfit",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/GrossProfit"
+    },
+    "cost_of_revenue": {
+      "series": [
+        {
+          "end": "2016-12-31",
+          "val": 3316000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-04-01",
+          "val": 800000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-07-01",
+          "val": 765000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-09-30",
+          "val": 1013000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2017-12-30",
+          "val": 3466000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 3466000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 1050000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 1050000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 1104000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 1104000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 992000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 992000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 4028000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 4028000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 751000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 751000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 910000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 910000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 1024000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 1024000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 3863000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 3863000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 968000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 1084000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 1571000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 5416000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 5416000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 8505000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 8505000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 12998000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 12998000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 12220000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 12220000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 13060000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": true,
+          "prior_val": 13060000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 17487000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "CostOfGoodsAndServicesSold",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "CostOfGoodsAndServicesSold",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/CostOfGoodsAndServicesSold"
+    },
+    "operating_income": {
+      "series": [
+        {
+          "end": "2008-12-27",
+          "val": -1955000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2009-12-26",
+          "val": 664000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 664000000
+        },
+        {
+          "end": "2010-03-27",
+          "val": 182000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-06-26",
+          "val": 125000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-09-25",
+          "val": 128000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-12-25",
+          "val": 848000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 848000000
+        },
+        {
+          "end": "2011-04-02",
+          "val": 54000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 54000000
+        },
+        {
+          "end": "2011-07-02",
+          "val": 105000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 105000000
+        },
+        {
+          "end": "2011-10-01",
+          "val": 138000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 138000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 368000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 368000000
+        },
+        {
+          "end": "2012-03-31",
+          "val": -580000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -580000000
+        },
+        {
+          "end": "2012-06-30",
+          "val": 77000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 77000000
+        },
+        {
+          "end": "2012-09-29",
+          "val": -131000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -131000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": -1056000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -1056000000
+        },
+        {
+          "end": "2013-03-30",
+          "val": -98000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -98000000
+        },
+        {
+          "end": "2013-06-29",
+          "val": -29000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -29000000
+        },
+        {
+          "end": "2013-09-28",
+          "val": 95000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 95000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 103000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 103000000
+        },
+        {
+          "end": "2014-03-29",
+          "val": 49000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 49000000
+        },
+        {
+          "end": "2014-06-28",
+          "val": 63000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 63000000
+        },
+        {
+          "end": "2014-09-27",
+          "val": 63000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 63000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": -155000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -155000000
+        },
+        {
+          "end": "2015-03-28",
+          "val": -137000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -137000000
+        },
+        {
+          "end": "2015-06-27",
+          "val": -137000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -137000000
+        },
+        {
+          "end": "2015-09-26",
+          "val": -158000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -158000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": -481000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -481000000
+        },
+        {
+          "end": "2016-03-26",
+          "val": -68000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -68000000
+        },
+        {
+          "end": "2016-06-25",
+          "val": -8000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -8000000
+        },
+        {
+          "end": "2016-09-24",
+          "val": -293000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -293000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": -373000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -372000000
+        },
+        {
+          "end": "2017-04-01",
+          "val": 11000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": -29000000
+        },
+        {
+          "end": "2017-07-01",
+          "val": -1000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 25000000
+        },
+        {
+          "end": "2017-09-30",
+          "val": 119000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 126000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 127000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 204000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 120000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 120000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 153000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 153000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 150000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 150000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 451000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 451000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 38000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 38000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 59000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 59000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 186000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 186000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 631000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 631000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 177000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 173000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 449000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 1369000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 1369000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 3648000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 3648000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 1264000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 1264000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 401000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 401000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 1900000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "OperatingIncomeLoss",
+          "restated": true,
+          "prior_val": 1900000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 3694000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "OperatingIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "OperatingIncomeLoss",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/OperatingIncomeLoss"
+    },
+    "net_income": {
+      "series": [
+        {
+          "end": "2010-12-25",
+          "val": 471000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2011-04-02",
+          "val": 510000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2011-07-02",
+          "val": 61000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2011-10-01",
+          "val": 97000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2011-12-31",
+          "val": 491000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 491000000
+        },
+        {
+          "end": "2012-03-31",
+          "val": -590000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -590000000
+        },
+        {
+          "end": "2012-06-30",
+          "val": 37000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 37000000
+        },
+        {
+          "end": "2012-09-29",
+          "val": -157000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -157000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": -1183000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -1183000000
+        },
+        {
+          "end": "2013-03-30",
+          "val": -146000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -146000000
+        },
+        {
+          "end": "2013-06-29",
+          "val": -74000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -74000000
+        },
+        {
+          "end": "2013-09-28",
+          "val": 48000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 48000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": -83000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -83000000
+        },
+        {
+          "end": "2014-03-29",
+          "val": -20000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -20000000
+        },
+        {
+          "end": "2014-06-28",
+          "val": -36000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -36000000
+        },
+        {
+          "end": "2014-09-27",
+          "val": 17000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 17000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": -403000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -403000000
+        },
+        {
+          "end": "2015-03-28",
+          "val": -180000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2015-06-27",
+          "val": -181000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2015-09-26",
+          "val": -197000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2015-12-26",
+          "val": -660000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -660000000
+        },
+        {
+          "end": "2016-03-26",
+          "val": -109000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2016-06-25",
+          "val": 69000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2016-09-24",
+          "val": -406000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2016-12-31",
+          "val": -498000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -497000000
+        },
+        {
+          "end": "2017-04-01",
+          "val": -33000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -73000000
+        },
+        {
+          "end": "2017-07-01",
+          "val": -42000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": -16000000
+        },
+        {
+          "end": "2017-09-30",
+          "val": 61000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 71000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": -33000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 43000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 81000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 81000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 116000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 116000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 102000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 102000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 337000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 337000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 16000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 16000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 35000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 35000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 120000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 120000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 341000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 341000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 162000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 157000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 390000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 2490000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 2490000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 3162000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 3162000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 1320000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 1320000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 854000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 854000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 1641000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetIncomeLoss",
+          "restated": true,
+          "prior_val": 1641000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 4335000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetIncomeLoss",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "NetIncomeLoss",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/NetIncomeLoss"
+    },
+    "rd_expense": {
+      "series": [
+        {
+          "end": "2008-12-27",
+          "val": 1848000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2009-12-26",
+          "val": 1721000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1721000000
+        },
+        {
+          "end": "2010-03-27",
+          "val": 323000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-06-26",
+          "val": 371000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-09-25",
+          "val": 359000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-12-25",
+          "val": 1405000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1405000000
+        },
+        {
+          "end": "2011-04-02",
+          "val": 367000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 367000000
+        },
+        {
+          "end": "2011-07-02",
+          "val": 367000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 367000000
+        },
+        {
+          "end": "2011-10-01",
+          "val": 361000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 361000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 1453000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1453000000
+        },
+        {
+          "end": "2012-03-31",
+          "val": 368000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 368000000
+        },
+        {
+          "end": "2012-06-30",
+          "val": 345000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 345000000
+        },
+        {
+          "end": "2012-09-29",
+          "val": 328000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 328000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": 1354000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1354000000
+        },
+        {
+          "end": "2013-03-30",
+          "val": 312000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 312000000
+        },
+        {
+          "end": "2013-06-29",
+          "val": 308000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 308000000
+        },
+        {
+          "end": "2013-09-28",
+          "val": 288000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 288000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 1201000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1201000000
+        },
+        {
+          "end": "2014-03-29",
+          "val": 279000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 279000000
+        },
+        {
+          "end": "2014-06-28",
+          "val": 277000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 277000000
+        },
+        {
+          "end": "2014-09-27",
+          "val": 278000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 278000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": 1072000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1072000000
+        },
+        {
+          "end": "2015-03-28",
+          "val": 242000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 242000000
+        },
+        {
+          "end": "2015-06-27",
+          "val": 235000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 235000000
+        },
+        {
+          "end": "2015-09-26",
+          "val": 241000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 241000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": 947000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 947000000
+        },
+        {
+          "end": "2016-03-26",
+          "val": 242000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 242000000
+        },
+        {
+          "end": "2016-06-25",
+          "val": 243000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 243000000
+        },
+        {
+          "end": "2016-09-24",
+          "val": 259000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 259000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 1008000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1008000000
+        },
+        {
+          "end": "2017-04-01",
+          "val": 271000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 266000000
+        },
+        {
+          "end": "2017-07-01",
+          "val": 285000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 279000000
+        },
+        {
+          "end": "2017-09-30",
+          "val": 320000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 315000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 1196000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1160000000
+        },
+        {
+          "end": "2018-03-31",
+          "val": 343000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 343000000
+        },
+        {
+          "end": "2018-06-30",
+          "val": 357000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 357000000
+        },
+        {
+          "end": "2018-09-29",
+          "val": 363000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 363000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 1434000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1434000000
+        },
+        {
+          "end": "2019-03-30",
+          "val": 373000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 373000000
+        },
+        {
+          "end": "2019-06-29",
+          "val": 373000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 373000000
+        },
+        {
+          "end": "2019-09-28",
+          "val": 406000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 406000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 1547000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1547000000
+        },
+        {
+          "end": "2020-03-28",
+          "val": 442000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-06-27",
+          "val": 460000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-09-26",
+          "val": 508000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2020-12-26",
+          "val": 1983000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 1983000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 2845000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 2845000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 5005000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 5005000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 5872000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 5872000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 6456000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": true,
+          "prior_val": 6456000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 8091000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "ResearchAndDevelopmentExpense",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "ResearchAndDevelopmentExpense",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/ResearchAndDevelopmentExpense"
+    },
+    "total_assets": {
+      "series": [
+        {
+          "end": "2009-12-26",
+          "val": 9078000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "Assets",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2010-12-25",
+          "val": 4964000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 4964000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 4954000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 4954000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": 4000000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 4000000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 4337000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 4337000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": 3767000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 3767000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": 3084000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 3109000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 3321000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 3321000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 3552000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 3540000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 4556000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 4556000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 6028000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 6028000000
+        },
+        {
+          "end": "2020-12-26",
+          "val": 8962000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 8962000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 12419000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 12419000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 67580000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 67580000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 67885000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 67885000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 69226000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "Assets",
+          "restated": true,
+          "prior_val": 69226000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 76926000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "Assets",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "Assets",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/Assets"
+    },
+    "long_term_debt": {
+      "series": [
+        {
+          "end": "2013-12-28",
+          "val": 1986000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2014-12-27",
+          "val": 2025000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 2025000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": 2007000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 2025000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 1435000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1435000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 1325000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1325000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 1114000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1114000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 486000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 486000000
+        },
+        {
+          "end": "2020-12-26",
+          "val": 330000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 330000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 1000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 2467000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 2467000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 1717000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1717000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 1721000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": true,
+          "prior_val": 1721000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 2348000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "LongTermDebtNoncurrent",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "LongTermDebtNoncurrent",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/LongTermDebtNoncurrent"
+    },
+    "stockholders_equity": {
+      "series": [
+        {
+          "end": "2007-12-29",
+          "val": 3230000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "StockholdersEquity",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2008-12-27",
+          "val": 127000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 127000000
+        },
+        {
+          "end": "2009-12-26",
+          "val": 648000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 648000000
+        },
+        {
+          "end": "2010-12-25",
+          "val": 1013000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 1013000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 1590000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 1590000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": 538000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 538000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 544000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 544000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": 187000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 187000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": -350000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": -412000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 477000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 416000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 596000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 611000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 1266000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 1266000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 2827000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 2827000000
+        },
+        {
+          "end": "2020-12-26",
+          "val": 5837000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 5837000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 7497000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 7497000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 54750000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 54750000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 55892000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 55892000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 57568000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "StockholdersEquity",
+          "restated": true,
+          "prior_val": 57568000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 62999000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "StockholdersEquity",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "StockholdersEquity",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/StockholdersEquity"
+    },
+    "operating_cash_flow": {
+      "series": [
+        {
+          "end": "2008-12-27",
+          "val": -692000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2009-12-26",
+          "val": 473000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 473000000
+        },
+        {
+          "end": "2010-12-25",
+          "val": -412000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": -412000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 382000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 382000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": -338000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": -338000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": -148000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": -148000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": -98000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": -98000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": -226000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": -226000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 81000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 90000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 12000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 68000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 34000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 34000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 493000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 493000000
+        },
+        {
+          "end": "2020-12-26",
+          "val": 1071000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 1071000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 3521000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 3521000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 3565000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 3565000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 1667000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 1667000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 3041000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": true,
+          "prior_val": 3041000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 7709000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "NetCashProvidedByUsedInOperatingActivities",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/NetCashProvidedByUsedInOperatingActivities"
+    },
+    "capex": {
+      "series": [
+        {
+          "end": "2008-12-27",
+          "val": 624000000,
+          "fy": 2010,
+          "filed": "2011-02-18",
+          "accn": "0001193125-11-040392",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": false,
+          "prior_val": null
+        },
+        {
+          "end": "2009-12-26",
+          "val": 466000000,
+          "fy": 2011,
+          "filed": "2012-02-24",
+          "accn": "0001193125-12-075837",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 466000000
+        },
+        {
+          "end": "2010-12-25",
+          "val": 148000000,
+          "fy": 2012,
+          "filed": "2013-02-21",
+          "accn": "0001193125-13-069422",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 148000000
+        },
+        {
+          "end": "2011-12-31",
+          "val": 250000000,
+          "fy": 2013,
+          "filed": "2014-02-18",
+          "accn": "0001193125-14-057240",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 250000000
+        },
+        {
+          "end": "2012-12-29",
+          "val": 133000000,
+          "fy": 2014,
+          "filed": "2015-02-19",
+          "accn": "0001193125-15-054362",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 133000000
+        },
+        {
+          "end": "2013-12-28",
+          "val": 84000000,
+          "fy": 2015,
+          "filed": "2016-02-18",
+          "accn": "0000002488-16-000111",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 84000000
+        },
+        {
+          "end": "2014-12-27",
+          "val": 95000000,
+          "fy": 2016,
+          "filed": "2017-02-21",
+          "accn": "0000002488-17-000043",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 95000000
+        },
+        {
+          "end": "2015-12-26",
+          "val": 96000000,
+          "fy": 2017,
+          "filed": "2018-02-27",
+          "accn": "0000002488-18-000042",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 96000000
+        },
+        {
+          "end": "2016-12-31",
+          "val": 77000000,
+          "fy": 2018,
+          "filed": "2019-02-08",
+          "accn": "0000002488-19-000011",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 77000000
+        },
+        {
+          "end": "2017-12-30",
+          "val": 113000000,
+          "fy": 2019,
+          "filed": "2020-02-04",
+          "accn": "0000002488-20-000008",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 113000000
+        },
+        {
+          "end": "2018-12-29",
+          "val": 163000000,
+          "fy": 2020,
+          "filed": "2021-01-29",
+          "accn": "0001628280-21-001185",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 163000000
+        },
+        {
+          "end": "2019-12-28",
+          "val": 217000000,
+          "fy": 2021,
+          "filed": "2022-02-03",
+          "accn": "0000002488-22-000016",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 217000000
+        },
+        {
+          "end": "2020-12-26",
+          "val": 294000000,
+          "fy": 2022,
+          "filed": "2023-02-27",
+          "accn": "0000002488-23-000047",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 294000000
+        },
+        {
+          "end": "2021-12-25",
+          "val": 301000000,
+          "fy": 2023,
+          "filed": "2024-01-31",
+          "accn": "0000002488-24-000012",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 301000000
+        },
+        {
+          "end": "2022-12-31",
+          "val": 450000000,
+          "fy": 2024,
+          "filed": "2025-02-05",
+          "accn": "0000002488-25-000012",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 450000000
+        },
+        {
+          "end": "2023-12-30",
+          "val": 546000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 546000000
+        },
+        {
+          "end": "2024-12-28",
+          "val": 636000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": true,
+          "prior_val": 636000000
+        },
+        {
+          "end": "2025-12-27",
+          "val": 974000000,
+          "fy": 2025,
+          "filed": "2026-02-04",
+          "accn": "0000002488-26-000018",
+          "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "restated": false,
+          "prior_val": null
+        }
+      ],
+      "xbrl_concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "source": "SEC EDGAR XBRL \u2014 us-gaap/PaymentsToAcquirePropertyPlantAndEquipment"
+    }
+  }
+}

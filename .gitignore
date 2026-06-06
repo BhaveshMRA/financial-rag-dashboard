@@ -1,0 +1,25 @@
+# Credentials and environment
+.env
+.env*
+!.env.example
+
+# Python cache and files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Data and Vectorstore (exclude local database and raw filings)
+vectorstore/
+data/filings/
+
+# OS files
+.DS_Store
+Thumbs.db

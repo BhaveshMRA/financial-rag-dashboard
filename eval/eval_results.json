@@ -1,0 +1,296 @@
+{
+  "summary": {
+    "total": 15,
+    "answerable": 11,
+    "unanswerable": 4,
+    "correct_count": 5,
+    "correct_rate": 0.455,
+    "refused_correctly": 3,
+    "hallucinated_count": 1,
+    "hallucination_rate": 0.25,
+    "citation_present": 8,
+    "citation_accuracy": 0.533,
+    "note": "Correctness is keyword-based heuristic. Manual review of individual answers is strongly recommended before reporting these numbers as final."
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "What was NVIDIA's total revenue for fiscal year 2024?",
+      "category": "factual_retrieval",
+      "unanswerable": false,
+      "answer": "NVIDIA's total revenue for fiscal year 2024 was $60.922 Billion (Source: [1]) or $60.9 billion (Source: [4]).",
+      "refused": false,
+      "correct": true,
+      "sources": [
+        "NVIDIA 10-K (filed 2024-02-21) \u2014 MD&A",
+        "SEC EDGAR XBRL Data",
+        "NVIDIA 10-K (filed 2026-02-25) \u2014 MD&A",
+        "NVIDIA 10-K (filed 2025-02-26) \u2014 MD&A"
+      ],
+      "rewritten_query": "NVIDIA Corporation total revenue fiscal year 2024 10-K consolidated statements of income",
+      "expected_contains": [
+        "60",
+        "billion",
+        "revenue"
+      ],
+      "notes": "NVIDIA FY2024 ended Jan 2024. Revenue was ~$60.9B. Verify against 10-K."
+    },
+    {
+      "id": 2,
+      "question": "How did NVIDIA explain the significant increase in data center revenue in 2024?",
+      "category": "quant_narrative",
+      "unanswerable": false,
+      "answer": "NVIDIA explained that the increase in Data Center revenue for fiscal year 2024, which grew 217% (Source: [2]), was driven by the following:\n\n*   **Demand Drivers:** Strong demand was driven by enterprise software and consumer internet applications, as well as multiple industry verticals including healthcare, financial services, and automotive (Source: [2]).\n*   **Specific Revenue Components:**\n    *   **Data Center compute revenue:** Increased 244% in the fiscal year (Source: [2]).\n    *   **Net",
+      "refused": false,
+      "correct": false,
+      "sources": [
+        "SEC EDGAR XBRL Data",
+        "NVIDIA 10-K (filed 2026-02-25) \u2014 MD&A",
+        "NVIDIA 10-K (filed 2025-02-26) \u2014 MD&A",
+        "NVIDIA 10-K (filed 2024-02-21) \u2014 MD&A"
+      ],
+      "rewritten_query": "NVIDIA Corporation: Analysis of \"Data Center\" segment revenue growth drivers and management's discussion and analysis (MD&A) for fiscal year 2024.",
+      "expected_contains": [
+        "data center",
+        "AI",
+        "demand",
+        "GPU"
+      ],
+      "notes": "MD&A should attribute growth to AI/HPC demand. Check query rewriting."
+    },
+    {
+      "id": 3,
+      "question": "What is AMD's gross margin trend from 2021 to 2023?",
+      "category": "trend_analysis",
+      "unanswerable": false,
+      "answer": "AMD's gross margin trend from 2021 to 2023 was as follows:\n\n*   **2021:** 48.25% (Source: [1])\n*   **2022:** 44.93% (Source: [1])\n*   **2023:** 46.12% (Source: [1])",
+      "refused": false,
+      "correct": false,
+      "sources": [
+        "AMD 10-K (filed 2025-02-05) \u2014 Risk Factors",
+        "AMD 10-K (filed 2026-02-04) \u2014 Risk Factors",
+        "AMD 10-K (filed 2026-02-04) \u2014 MD&A",
+        "AMD 10-K (filed 2024-01-31) \u2014 Risk Factors",
+        "SEC EDGAR XBRL Data"
+      ],
+      "rewritten_query": "Advanced Micro Devices, Inc. (AMD) gross margin percentage trend for fiscal years 2021, 2022, and 2023 as reported in Consolidated Statements of Operations.",
+      "expected_contains": [
+        "gross margin",
+        "percent",
+        "AMD"
+      ],
+      "notes": "AMD gross margin: ~48% (2021) \u2192 ~44% (2022, Xilinx integration costs) \u2192 ~46% (2023)"
+    },
+    {
+      "id": 4,
+      "question": "What risks does Intel cite related to competition from AMD and NVIDIA?",
+      "category": "risk_factors",
+      "unanswerable": false,
+      "answer": "Intel cites the following risks related to competition from AMD and NVIDIA:\n\n*   **General Product Competition:** AMD and NVIDIA are identified as competitors offering platform products (AMD and Qualcomm) and accelerator products such as GPUs (NVIDIA and AMD) [2, 3, 4].\n*   **AI and GPU Shift:** Intel's data center business has been negatively impacted by a significant shift in customer spending toward GPUs optimized for AI workloads, a market where Intel has been \"unsuccessful to date in becomi",
+      "refused": false,
+      "correct": true,
+      "sources": [
+        "Intel 10-K (filed 2026-01-23) \u2014 Risk Factors",
+        "Intel 10-K (filed 2024-01-26) \u2014 Risk Factors",
+        "SEC EDGAR XBRL Data",
+        "Intel 10-K (filed 2025-01-31) \u2014 Risk Factors"
+      ],
+      "rewritten_query": "Identify risk factors in the \"Item 1A. Risk Factors\" section of Intel Corporation's most recent 10-K filing specifically referencing competitive pressures, market share loss, and product rivalry associated with Advanced Micro Devices (AMD) and NVIDIA Corporation.",
+      "expected_contains": [
+        "competition",
+        "AMD",
+        "NVIDIA",
+        "market"
+      ],
+      "notes": "Risk Factors section should mention competitive pressure in data center and PC markets."
+    },
+    {
+      "id": 5,
+      "question": "Compare the free cash flow of NVIDIA, AMD, and Intel for fiscal year 2023.",
+      "category": "comparison",
+      "unanswerable": false,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'Compare the free cash flow of NVIDIA, AMD, and Intel for fiscal year 2023.'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": false,
+      "sources": [],
+      "rewritten_query": "Retrieve \"Net cash provided by operating activities\" and \"Capital expenditures\" from the Consolidated Statements of Cash Flows for NVIDIA Corporation, Advanced Micro Devices, Inc. (AMD), and Intel Corporation for fiscal year 2023 to calculate Free Cash Flow.",
+      "expected_contains": [
+        "free cash flow",
+        "billion"
+      ],
+      "notes": "NVIDIA significantly higher FCF. Intel FCF compressed by CapEx spending."
+    },
+    {
+      "id": 6,
+      "question": "What was Intel's revenue in Q2 2019?",
+      "category": "unanswerable_out_of_scope",
+      "unanswerable": true,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'What was Intel's revenue in Q2 2019?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": true,
+      "sources": [],
+      "rewritten_query": "Intel Corporation revenue for the second quarter of fiscal year 2019.",
+      "expected_contains": [],
+      "notes": "We only have recent 10-Ks (2022-2024). System must refuse, not fabricate."
+    },
+    {
+      "id": 7,
+      "question": "What is NVIDIA's stock price today?",
+      "category": "unanswerable_not_in_filings",
+      "unanswerable": true,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'What is NVIDIA's stock price today?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": true,
+      "sources": [],
+      "rewritten_query": "NVIDIA Corporation (NVDA) latest reported revenue, net income, and diluted earnings per share from most recent 10-K filing.",
+      "expected_contains": [],
+      "notes": "Stock price is not in filings. System must refuse."
+    },
+    {
+      "id": 8,
+      "question": "How much did AMD spend on research and development in 2023, and how does this compare to NVIDIA?",
+      "category": "comparison",
+      "unanswerable": false,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'How much did AMD spend on research and development in 2023, and how does this compare to NVIDIA?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": true,
+      "sources": [],
+      "rewritten_query": "Compare \"Research and Development\" expenses for Advanced Micro Devices, Inc. (AMD) and NVIDIA Corporation for the fiscal year 2023 as reported in their respective Form 10-K filings.",
+      "expected_contains": [
+        "research",
+        "development",
+        "AMD",
+        "NVIDIA"
+      ],
+      "notes": "R&D figures should be in XBRL. Test both retrieval and XBRL data path."
+    },
+    {
+      "id": 9,
+      "question": "What management actions did Intel announce to address declining margins?",
+      "category": "quant_narrative",
+      "unanswerable": false,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'What management actions did Intel announce to address declining margins?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": false,
+      "sources": [],
+      "rewritten_query": "Intel Corporation: Management's Discussion and Analysis (MD&A), strategic initiatives, cost-reduction measures, and operational guidance related to gross margin compression and profitability improvement.",
+      "expected_contains": [
+        "cost",
+        "restructur",
+        "Intel"
+      ],
+      "notes": "Intel MD&A should mention restructuring, IDM 2.0, cost reduction plans."
+    },
+    {
+      "id": 10,
+      "question": "What is the debt-to-equity ratio for all three companies and which is most leveraged?",
+      "category": "derived_metric",
+      "unanswerable": false,
+      "answer": "Based on the provided filings, the most recent debt-to-equity ratios for the three companies are:\n\n*   **NVIDIA (NVDA):** 0.054x (Period End: 2026-01-25) (Source: [1])\n*   **AMD (AMD):** 0.037x (Period End: 2025-12-27) (Source: [1])\n*   **Intel (INTC):** 0.386x (Period End: 2025-12-27) (Source: [1])\n\n**Most Leveraged:** Intel is the most leveraged of the three companies.",
+      "refused": false,
+      "correct": true,
+      "sources": [
+        "Intel 10-K (filed 2025-01-31) \u2014 MD&A",
+        "Intel 10-K (filed 2025-01-31) \u2014 Risk Factors",
+        "Intel 10-K (filed 2026-01-23) \u2014 Risk Factors",
+        "Intel 10-K (filed 2024-01-26) \u2014 Risk Factors",
+        "SEC EDGAR XBRL Data"
+      ],
+      "rewritten_query": "Calculate total debt-to-equity ratio for [Company A], [Company B], and [Company C] based on most recent 10-K filings; compare total liabilities and total shareholders' equity to identify the entity with the highest leverage.",
+      "expected_contains": [
+        "debt",
+        "equity",
+        "Intel",
+        "NVIDIA",
+        "AMD"
+      ],
+      "notes": "Intel historically more leveraged. Should compute D/E from XBRL data."
+    },
+    {
+      "id": 11,
+      "question": "Did NVIDIA restate any financial figures between their 2022 and 2023 10-K filings?",
+      "category": "restatement_detection",
+      "unanswerable": false,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'Did NVIDIA restate any financial figures between their 2022 and 2023 10-K filings?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": true,
+      "sources": [],
+      "rewritten_query": "NVIDIA Corporation: Compare \"Financial Statements\" and \"Notes to Consolidated Financial Statements\" across FY2022 and FY2023 10-K filings for \"restatement\", \"revision\", \"correction of error\", or \"previously issued financial statements\".",
+      "expected_contains": [],
+      "notes": "Tests restatement detection logic. Answer depends on actual data."
+    },
+    {
+      "id": 12,
+      "question": "What is NVIDIA's net income for fiscal year 2025?",
+      "category": "unanswerable_future",
+      "unanswerable": true,
+      "answer": "NVIDIA's net income for fiscal year 2025 was $72.880 Billion (Source: [1]).",
+      "refused": false,
+      "correct": false,
+      "sources": [
+        "NVIDIA 10-K (filed 2024-02-21) \u2014 MD&A",
+        "SEC EDGAR XBRL Data",
+        "NVIDIA 10-K (filed 2026-02-25) \u2014 MD&A",
+        "NVIDIA 10-K (filed 2025-02-26) \u2014 MD&A"
+      ],
+      "rewritten_query": "NVIDIA Corporation: Net Income for fiscal year 2025 (Consolidated Statements of Income)",
+      "expected_contains": [],
+      "notes": "FY2025 data may not be in corpus. System must refuse or note data absence."
+    },
+    {
+      "id": 13,
+      "question": "How does Intel describe its foundry strategy and what financial impact does it expect?",
+      "category": "quant_narrative",
+      "unanswerable": false,
+      "answer": "Intel describes its foundry strategy as establishing \"Intel Foundry as a major provider of foundry capacity to manufacture semiconductors for others\" [Source: 5]. This involves implementing an \"internal foundry operating model\" to separate the product and manufacturing sides of the business, creating a relationship between the Intel Foundry business and the Intel Products business (CCG, DCAI, and NEX) [Source: 2].\n\nThe expected financial impacts and risks include:\n*   **Investment Risks:** The s",
+      "refused": false,
+      "correct": false,
+      "sources": [
+        "SEC EDGAR XBRL Data",
+        "Intel 10-K (filed 2025-01-31) \u2014 Risk Factors"
+      ],
+      "rewritten_query": "Intel Corporation: \"Intel Foundry\" strategy, business model transition, capital expenditures (CapEx) projections, revenue forecasts, and financial guidance related to foundry services in the most recent 10-K.",
+      "expected_contains": [
+        "foundry",
+        "Intel",
+        "IFS"
+      ],
+      "notes": "Intel MD&A should discuss IFS (Intel Foundry Services) strategy."
+    },
+    {
+      "id": 14,
+      "question": "What was NVIDIA's CAGR in revenue over the last 3 years?",
+      "category": "derived_metric",
+      "unanswerable": false,
+      "answer": "To calculate the Compound Annual Growth Rate (CAGR) in revenue over the last 3 years, the revenue for the most recent fiscal year (2026) and the revenue from three years prior (2023) are used.\n\n**Inputs:**\n*   Revenue FY 2026: $215.938 Billion (Source: [1])\n*   Revenue FY 2023: $26.974 Billion (Source: [1])\n*   Number of years (n): 3\n\n**Formula:**\n$\\text{CAGR} = \\left( \\frac{\\text{Ending Value}}{\\text{Beginning Value}} \\right)^{\\frac{1}{n}} - 1$\n\n**Calculation:**\n$\\text{CAGR} = \\left( \\frac{215.",
+      "refused": false,
+      "correct": false,
+      "sources": [
+        "NVIDIA 10-K (filed 2024-02-21) \u2014 MD&A",
+        "SEC EDGAR XBRL Data",
+        "NVIDIA 10-K (filed 2026-02-25) \u2014 MD&A",
+        "NVIDIA 10-K (filed 2025-02-26) \u2014 MD&A"
+      ],
+      "rewritten_query": "NVIDIA Corporation: total revenue for fiscal years 2022, 2023, and 2024; compound annual growth rate (CAGR) calculation for revenue.",
+      "expected_contains": [
+        "CAGR",
+        "growth",
+        "NVIDIA"
+      ],
+      "notes": "CAGR computed from XBRL revenue series. Should be ~50%+ given AI boom."
+    },
+    {
+      "id": 15,
+      "question": "What is the meaning of life?",
+      "category": "unanswerable_irrelevant",
+      "unanswerable": true,
+      "answer": "I cannot answer this from the available filings. The retrieved context does not contain sufficient information to address: 'What is the meaning of life?'. Please check SEC EDGAR directly for this information.",
+      "refused": true,
+      "correct": true,
+      "sources": [],
+      "rewritten_query": "Out of scope: The query does not pertain to financial data or SEC 10-K filings.",
+      "expected_contains": [],
+      "notes": "Complete non-sequitur. System must refuse cleanly."
+    }
+  ]
+}

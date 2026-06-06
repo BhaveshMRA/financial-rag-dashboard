@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What was NVIDIA's total revenue for fiscal year 2024?",
+    "expected_contains": ["60", "billion", "revenue"],
+    "category": "factual_retrieval",
+    "unanswerable": false,
+    "notes": "NVIDIA FY2024 ended Jan 2024. Revenue was ~$60.9B. Verify against 10-K."
+  },
+  {
+    "id": 2,
+    "question": "How did NVIDIA explain the significant increase in data center revenue in 2024?",
+    "expected_contains": ["data center", "AI", "demand", "GPU"],
+    "category": "quant_narrative",
+    "unanswerable": false,
+    "notes": "MD&A should attribute growth to AI/HPC demand. Check query rewriting."
+  },
+  {
+    "id": 3,
+    "question": "What is AMD's gross margin trend from 2021 to 2023?",
+    "expected_contains": ["gross margin", "percent", "AMD"],
+    "category": "trend_analysis",
+    "unanswerable": false,
+    "notes": "AMD gross margin: ~48% (2021) → ~44% (2022, Xilinx integration costs) → ~46% (2023)"
+  },
+  {
+    "id": 4,
+    "question": "What risks does Intel cite related to competition from AMD and NVIDIA?",
+    "expected_contains": ["competition", "AMD", "NVIDIA", "market"],
+    "category": "risk_factors",
+    "unanswerable": false,
+    "notes": "Risk Factors section should mention competitive pressure in data center and PC markets."
+  },
+  {
+    "id": 5,
+    "question": "Compare the free cash flow of NVIDIA, AMD, and Intel for fiscal year 2023.",
+    "expected_contains": ["free cash flow", "billion"],
+    "category": "comparison",
+    "unanswerable": false,
+    "notes": "NVIDIA significantly higher FCF. Intel FCF compressed by CapEx spending."
+  },
+  {
+    "id": 6,
+    "question": "What was Intel's revenue in Q2 2019?",
+    "expected_contains": [],
+    "category": "unanswerable_out_of_scope",
+    "unanswerable": true,
+    "notes": "We only have recent 10-Ks (2022-2024). System must refuse, not fabricate."
+  },
+  {
+    "id": 7,
+    "question": "What is NVIDIA's stock price today?",
+    "expected_contains": [],
+    "category": "unanswerable_not_in_filings",
+    "unanswerable": true,
+    "notes": "Stock price is not in filings. System must refuse."
+  },
+  {
+    "id": 8,
+    "question": "How much did AMD spend on research and development in 2023, and how does this compare to NVIDIA?",
+    "expected_contains": ["research", "development", "AMD", "NVIDIA"],
+    "category": "comparison",
+    "unanswerable": false,
+    "notes": "R&D figures should be in XBRL. Test both retrieval and XBRL data path."
+  },
+  {
+    "id": 9,
+    "question": "What management actions did Intel announce to address declining margins?",
+    "expected_contains": ["cost", "restructur", "Intel"],
+    "category": "quant_narrative",
+    "unanswerable": false,
+    "notes": "Intel MD&A should mention restructuring, IDM 2.0, cost reduction plans."
+  },
+  {
+    "id": 10,
+    "question": "What is the debt-to-equity ratio for all three companies and which is most leveraged?",
+    "expected_contains": ["debt", "equity", "Intel", "NVIDIA", "AMD"],
+    "category": "derived_metric",
+    "unanswerable": false,
+    "notes": "Intel historically more leveraged. Should compute D/E from XBRL data."
+  },
+  {
+    "id": 11,
+    "question": "Did NVIDIA restate any financial figures between their 2022 and 2023 10-K filings?",
+    "expected_contains": [],
+    "category": "restatement_detection",
+    "unanswerable": false,
+    "notes": "Tests restatement detection logic. Answer depends on actual data."
+  },
+  {
+    "id": 12,
+    "question": "What is NVIDIA's net income for fiscal year 2025?",
+    "expected_contains": [],
+    "category": "unanswerable_future",
+    "unanswerable": true,
+    "notes": "FY2025 data may not be in corpus. System must refuse or note data absence."
+  },
+  {
+    "id": 13,
+    "question": "How does Intel describe its foundry strategy and what financial impact does it expect?",
+    "expected_contains": ["foundry", "Intel", "IFS"],
+    "category": "quant_narrative",
+    "unanswerable": false,
+    "notes": "Intel MD&A should discuss IFS (Intel Foundry Services) strategy."
+  },
+  {
+    "id": 14,
+    "question": "What was NVIDIA's CAGR in revenue over the last 3 years?",
+    "expected_contains": ["CAGR", "growth", "NVIDIA"],
+    "category": "derived_metric",
+    "unanswerable": false,
+    "notes": "CAGR computed from XBRL revenue series. Should be ~50%+ given AI boom."
+  },
+  {
+    "id": 15,
+    "question": "What is the meaning of life?",
+    "expected_contains": [],
+    "category": "unanswerable_irrelevant",
+    "unanswerable": true,
+    "notes": "Complete non-sequitur. System must refuse cleanly."
+  }
+]
